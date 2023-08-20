@@ -6,6 +6,8 @@ I'm a Full-Stack developer with expertise in building robust and scalable front-
 
 My goal as a full-stack engineer is to deliver high-quality products that meet my clients' requirements and exceed their expectations. If you're looking for someone who can help you build your next web application, feel free to contact me at [anss.khaled00@gmail.com](mailto:anss.khaled00@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ansskfarouk/).
 
+📄 For more information and work experience, you can find my resume [here](https://drive.google.com/file/d/1JVNd-xHBrdpktsuDREXfbxVwLKMbNYjy/view).
+
 ## 🎓 Education
 Strong engineering background with Bachelor's degree focused on Computer and System Engineering from Ain Shams University ASU, which has helped me develop a deep understanding of software development concepts, programming languages, and industry best practices
 
