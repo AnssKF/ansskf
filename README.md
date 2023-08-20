@@ -9,14 +9,14 @@ My goal as a full-stack engineer is to deliver high-quality products that meet m
 📄 For more information and work experience, you can find my resume [here](https://drive.google.com/file/d/1JVNd-xHBrdpktsuDREXfbxVwLKMbNYjy/view).
 
 ## 🎓 Education
-Strong engineering background with Bachelor's degree focused on Computer and System Engineering from Ain Shams University ASU, which has helped me develop a deep understanding of software development concepts, programming languages, and industry best practices
+Strong engineering background with Bachelor's degree focused on Computer and System Engineering from [Ain Shams University ASU](https://www.asu.edu.eg/), which has helped me develop a deep understanding of software development concepts, programming languages, and industry best practices
 
 ## 🌱 Skills
 To build robust and scalable systems, I rely on a diverse set of technologies and tools. I'm constantly exploring new frameworks, languages, libraries, and services that can enhance my development process and help me deliver high-quality products.
 
 Here are some of my key skills:
 
-#### Languages:
+### Languages:
   
   [![js](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![ts](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
@@ -24,7 +24,7 @@ Here are some of my key skills:
   [![ruby](https://skillicons.dev/icons?i=ruby&theme=dark)](https://www.ruby-lang.org/en/)
   [![python](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 
-#### Backend:
+### Backend:
 
   [![laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://laravel.com/)
   [![rails](https://skillicons.dev/icons?i=rails&theme=dark)](https://rubyonrails.org/)
@@ -32,7 +32,7 @@ Here are some of my key skills:
   [![django](https://skillicons.dev/icons?i=django&theme=dark)](https://www.djangoproject.com/)
   [![redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io/)
 
-#### Frontend:
+### Frontend:
 
   [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![css](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -46,12 +46,12 @@ Here are some of my key skills:
   [![alpinejs](https://skillicons.dev/icons?i=alpinejs&theme=dark)](https://alpinejs.dev/)
   [![jquery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://jquery.com/)
 
-#### Databases:
+### Databases:
 
   [![mysql](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
   [![postgresql](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.org/)
 
-#### Tools:
+### Tools:
 
   [![git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
   [![github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/)
